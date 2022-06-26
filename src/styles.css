@@ -1,0 +1,27 @@
+/* Add application styles & imports to this file! */
+h2 {
+  text-align: justify;
+  font-family: Helvetica;
+  box-sizing: border-box;
+  padding: 25px 50px 25px 50px;
+  background-color: #ffdfcc;
+  border-radius: 25px;
+}
+body {
+  background-color: #fa8072;
+  font-family: Helvetica;
+  font-weight: 600;
+  width: auto;
+  padding: 25px 50px 25px 50px;
+  border-radius: 25px;
+  box-sizing: border-box;
+}
+
+h3 {
+  text-align: justify;
+  font-family: Helvetica;
+  box-sizing: border-box;
+  padding: 25px 50px 25px 50px;
+  background-color: #55cdfc;
+  border-radius: 25px;
+}

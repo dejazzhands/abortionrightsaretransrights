@@ -1,0 +1,35 @@
+p {
+  font-family: Helvetica;
+}
+li {
+  line-height: 30px;
+}
+body {
+  background-color: #55cdfc;
+  font-family: Helvetica;
+  font-weight: 600;
+  width: auto;
+  padding: 25px 50px 25px 50px;
+  border-radius: 25px;
+  box-sizing: border-box;
+}
+
+div {
+  background-color: #f7a8b8;
+  width: auto;
+  border-radius: 25px;
+  padding: 50px;
+  margin: 20px;
+}
+
+h2 {
+  text-align: justify;
+  font-family: Helvetica;
+}
+
+header {
+  background: repeating-linear-gradient(#55cdfc, #ffffff, #f7a8b8);
+  border-radius: 25px;
+  padding: 25px 50px 25px 50px;
+  box-sizing: border-box;
+}
